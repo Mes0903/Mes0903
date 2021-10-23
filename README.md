@@ -19,5 +19,5 @@ Learning Modern C++, Operating System, AI.
 
 # Statistics
 
-![GitHub - Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mes0903&bg_color=90,FEFBF3,D7E9F7)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mes0903&count_private=true&show_icons=true&bg_color=90,FEFBF3,D7E9F7)
+![GitHub - Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mes0903&bg_color=90,FEFBF3,F4D19B)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mes0903&count_private=true&show_icons=true&bg_color=90,FEFBF3,F4D19B)
