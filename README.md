@@ -14,7 +14,7 @@ Learning Modern C++, Operating System, AI.
 + Facebook: [鄭詠澤](https://www.facebook.com/shiro.james0903)
 + Twitter: [@Mes92778311](https://twitter.com/Mes92778311)
 + E-Mail: `zuz900903@gmail.com`
-+ Node: [Mes's Node](https://hackmd.io/@Mes/mes_note/https%3A%2F%2Fhackmd.io%2F%40Mes%2Fnote_preface)
++ Note: [Mes's Note](https://hackmd.io/@Mes/mes_note/https%3A%2F%2Fhackmd.io%2F%40Mes%2Fnote_preface)
 + Youtube: [Mes](https://www.youtube.com/channel/UCT3MbveOznWLlxNIdLUUOhg)
 
 # Statistics
