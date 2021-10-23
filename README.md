@@ -17,6 +17,7 @@ Learning Modern C++, Operating System, AI.
 + Node: [Mes's Node](https://hackmd.io/@Mes/mes_note/https%3A%2F%2Fhackmd.io%2F%40Mes%2Fnote_preface)
 + Youtube: [Mes](https://www.youtube.com/channel/UCT3MbveOznWLlxNIdLUUOhg)
 
+# Statistics
 
-![GitHub - Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mes0903&bg_color=90,DAFFEF,FCFFFD)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mes0903&count_private=true&show_icons=true&bg_color=90,DAFFEF,FCFFFD)
+![GitHub - Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mes0903&bg_color=90,39375E,50506E)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mes0903&count_private=true&show_icons=true&bg_color=90,39375E,50506E)
