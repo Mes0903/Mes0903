@@ -1,4 +1,4 @@
-# <img src="https://walfiegif.files.wordpress.com/2021/05/out-transparent-13.gif?w=745" style="vertical-align:middle" width="25px"> Hello !
+# <img src="https://walfiegif.files.wordpress.com/2021/05/out-transparent-13.gif?w=745" style="vertical-align:middle" width="25px"> About me
 
 Programmer, majoring in Mathematics.
 
@@ -19,5 +19,5 @@ Learning Modern C++, Operating System, AI.
 
 # Statistics
 
-![GitHub - Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mes0903&bg_color=90,CA6C46,F1ECEC)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mes0903&count_private=true&show_icons=true&bg_color=90,CA6C46,F1ECEC)
+![GitHub - Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mes0903&bg_color=50,CA6C46,F1ECEC)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mes0903&count_private=true&show_icons=true&bg_color=50,CA6C46,F1ECEC)
