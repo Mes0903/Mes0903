@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mes0903.Mes0903">
 
-<h1 align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi~+My+name+is+Mes!;I+write+C%2B%2B+and+OpenGL!;I+am+a+huge+fan+of+Ina!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=%2333B3EB&center=true&vCenter=true&width=435&lines=Hi~+My+name+is+Mes!;I+write+C%2B%2B+and+OpenGL!;I+am+a+huge+fan+of+Ina!" alt="Typing SVG">
   </a>
-</h1>
+</p>
 
 <h1><img src="https://i.imgur.com/thmVmX6.png?w=745" style="vertical-align:middle" width="30px"> About me </h1>
 
