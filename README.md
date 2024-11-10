@@ -31,26 +31,6 @@ Lastly, I'm a huuuge fan of Hololive. My favorite members are Ina, Lap, and Shio
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mes0903&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-<h1 align="center"><img src="https://i.imgur.com/thmVmX6.png?w=745" style="vertical-align:middle" width="30px"> Repositories </h1>
-
-<p align="center">
-  <a href="https://github.com/Mes0903/Cpp-Miner" title="Cpp Miner">
-    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mes0903&repo=Cpp-Miner&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a href="https://github.com/NcuMathRoboticsLab/MRL_LabelTool" title="MRL Label Tool">
-    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NcuMathRoboticsLab&repo=MRL_LabelTool&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Mes0903/Mase" title="Mase">
-    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mes0903&repo=Mase&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a href="https://github.com/Mes0903/MesKeyELF" title="MesKeyELF">
-    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mes0903&repo=MesKeyELF&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</p>
-
 <h1 align="center"><img src="https://i.imgur.com/thmVmX6.png?w=745" style="vertical-align:middle" width="30px"> Contribution Calendar</h1>
 
 <p align="center">
